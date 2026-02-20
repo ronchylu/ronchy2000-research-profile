@@ -8,6 +8,20 @@
   "en": {
     "updates": [
       {
+        "date": "2026-02-20",
+        "type": "Commit",
+        "title": "Merge branch 'master' of github.com:Ronchy2000/ronchy2000-research-profile",
+        "summary": "Authored by ronchy-motherHome",
+        "link": "https://github.com/Ronchy2000/ronchy2000-research-profile/commit/459f0160a4c8dbbd007d14327a28523572415c90"
+      },
+      {
+        "date": "2026-02-20",
+        "type": "Commit",
+        "title": "feat: 站点链接直接接入项目数据层，让每个项目卡片支持“多个外链”而不只 GitHub",
+        "summary": "Authored by ronchy-motherHome",
+        "link": "https://github.com/Ronchy2000/ronchy2000-research-profile/commit/ecd9998846d02e2d4d5e7ad634bf50189f0731d9"
+      },
+      {
         "date": "2026-02-15",
         "type": "Commit",
         "title": "chore: document EdgeOne trailing slash routing issue and remove unused postbuild",
@@ -41,26 +55,26 @@
         "title": "chore add edge-function file",
         "summary": "Authored by ronchy-motherHome",
         "link": "https://github.com/Ronchy2000/ronchy2000-research-profile/commit/8c560311a956dfa355a122efd236b002c415b99e"
-      },
-      {
-        "date": "2026-02-15",
-        "type": "Commit",
-        "title": "[try fix]: EdgeOne 404",
-        "summary": "Authored by ronchy-motherHome",
-        "link": "https://github.com/Ronchy2000/ronchy2000-research-profile/commit/21b022a87580febeb38db5521dd4d5adad439176"
-      },
-      {
-        "date": "2026-02-15",
-        "type": "Commit",
-        "title": "Fix EdgeOne proxy configuration",
-        "summary": "Authored by ronchy-motherHome",
-        "link": "https://github.com/Ronchy2000/ronchy2000-research-profile/commit/d19cf7fc80a11f81c32c407f2bd28097c1505805"
       }
     ]
   },
   "zh": {
     "updates": [
       {
+        "date": "2026-02-20",
+        "type": "提交",
+        "title": "Merge branch 'master' of github.com:Ronchy2000/ronchy2000-research-profile",
+        "summary": "由 ronchy-motherHome 提交",
+        "link": "https://github.com/Ronchy2000/ronchy2000-research-profile/commit/459f0160a4c8dbbd007d14327a28523572415c90"
+      },
+      {
+        "date": "2026-02-20",
+        "type": "提交",
+        "title": "feat: 站点链接直接接入项目数据层，让每个项目卡片支持“多个外链”而不只 GitHub",
+        "summary": "由 ronchy-motherHome 提交",
+        "link": "https://github.com/Ronchy2000/ronchy2000-research-profile/commit/ecd9998846d02e2d4d5e7ad634bf50189f0731d9"
+      },
+      {
         "date": "2026-02-15",
         "type": "提交",
         "title": "chore: document EdgeOne trailing slash routing issue and remove unused postbuild",
@@ -94,20 +108,6 @@
         "title": "chore add edge-function file",
         "summary": "由 ronchy-motherHome 提交",
         "link": "https://github.com/Ronchy2000/ronchy2000-research-profile/commit/8c560311a956dfa355a122efd236b002c415b99e"
-      },
-      {
-        "date": "2026-02-15",
-        "type": "提交",
-        "title": "[try fix]: EdgeOne 404",
-        "summary": "由 ronchy-motherHome 提交",
-        "link": "https://github.com/Ronchy2000/ronchy2000-research-profile/commit/21b022a87580febeb38db5521dd4d5adad439176"
-      },
-      {
-        "date": "2026-02-15",
-        "type": "提交",
-        "title": "Fix EdgeOne proxy configuration",
-        "summary": "由 ronchy-motherHome 提交",
-        "link": "https://github.com/Ronchy2000/ronchy2000-research-profile/commit/d19cf7fc80a11f81c32c407f2bd28097c1505805"
       }
     ]
   }
